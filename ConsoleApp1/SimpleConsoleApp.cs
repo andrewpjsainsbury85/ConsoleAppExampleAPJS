@@ -78,7 +78,7 @@ namespace ConsoleApp1
 
         private static void DisplayProfile(profile p)
         {
-            WriteLine("Profile Details...");
+            WriteLine("Profile Details:");
             WriteLine("Your Name is " + p.name);
             WriteLine("Your Town is " + p.Town);
         }
